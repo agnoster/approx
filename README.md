@@ -1,4 +1,4 @@
-# approx
+# approx [![build status](https://secure.travis-ci.org/agnoster/approx.png?branch=master)](http://travis-ci.org/agnoster/approx)
 
 > “For when good enough is good enough.”
 
