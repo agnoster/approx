@@ -1,0 +1,21 @@
+{
+  "name": "approx",
+  "version": "0.0.0",
+  "description": "Easily approximate decimal values with ratios",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": "",
+  "keywords": [
+    "approx",
+    "approximation",
+    "ratio",
+    "decimal"
+  ],
+  "author": "Isaac Wolkerstorfer <agnoster@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ratio": "~0.0.0"
+  }
+}
